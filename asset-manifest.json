@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/resctLiveWebsite/static/css/main.81e82b42.css",
+    "main.js": "/resctLiveWebsite/static/js/main.96bb7937.js",
+    "static/js/787.a5575a9f.chunk.js": "/resctLiveWebsite/static/js/787.a5575a9f.chunk.js",
+    "static/media/1side.jpg": "/resctLiveWebsite/static/media/1side.1ee9cc9d815a1f6c21f5.jpg",
+    "static/media/4side.jpg": "/resctLiveWebsite/static/media/4side.0229805076fb129c6101.jpg",
+    "static/media/2side.jpg": "/resctLiveWebsite/static/media/2side.e61aa5846afa2fe5c7ba.jpg",
+    "static/media/kashmir.jpg": "/resctLiveWebsite/static/media/kashmir.c3dd58d6cfe3b1bb4289.jpg",
+    "static/media/3side.jpg": "/resctLiveWebsite/static/media/3side.5fc93259bf9717d64e62.jpg",
+    "index.html": "/resctLiveWebsite/index.html",
+    "main.81e82b42.css.map": "/resctLiveWebsite/static/css/main.81e82b42.css.map",
+    "main.96bb7937.js.map": "/resctLiveWebsite/static/js/main.96bb7937.js.map",
+    "787.a5575a9f.chunk.js.map": "/resctLiveWebsite/static/js/787.a5575a9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81e82b42.css",
+    "static/js/main.96bb7937.js"
+  ]
+}
