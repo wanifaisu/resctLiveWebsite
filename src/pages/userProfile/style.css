@@ -1,0 +1,35 @@
+.height-100 {
+  margin-left: 1.7rem;
+  height: 100%;
+  width: 100%;
+  padding: 1rem 0;
+  border-radius: 0.4rem;
+  overflow: hidden;
+}
+.profile__container {
+  padding: 0 2rem;
+  margin-top: -6rem !important;
+  @media only screen and (max-width: 800px) {
+    padding: 0 !important;
+  }
+}
+.userprofile__photo {
+  position: absolute !important;
+  top: 80% !important;
+  right: 0 !important;
+  transform: translateX(-2.2rem) !important;
+}
+.profile__img {
+  position: relative !important;
+  transform: scale(0.8) !important;
+  @media only screen and (max-width: 600px) {
+    width: 180px;
+    height: 180px;
+  }
+}
+
+.profile__img-container {
+  display: flex;
+  justify-content: center;
+  padding-left: 10;
+}
